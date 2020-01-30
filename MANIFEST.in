@@ -1,0 +1,4 @@
+include *.md
+include LICENSE.txt
+include test.ipynb
+recursive-include data *
