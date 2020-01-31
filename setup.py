@@ -10,12 +10,11 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
     name='alpha_project',
     version='1.0.0',
-    description='Project for Alpha bank',
+    description='Project',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://bitbucket.org/hechachi/alpha',
-    author='Fedyushin I.A., United Consulting Group',
-    author_email='.com',
+    author='Fedyushin I.A.',
+    author_email='hechachi1997@gmail.com',
     keywords='deduplication python machine_learning python3 data',
     packages=[
         'alpha_project',
